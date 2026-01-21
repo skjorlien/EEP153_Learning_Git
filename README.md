@@ -1,3 +1,3 @@
 # README 
 
-This is a sandbox repo to learn git and break things.
+This is a sandbox repo to learn git and break things for EEP153.
